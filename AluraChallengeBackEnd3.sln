@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraChallengeBackEnd3", "AluraChallengeBackEnd3\AluraChallengeBackEnd3.csproj", "{8F1C6345-C1EC-4944-82CE-825CED22657A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1C6345-C1EC-4944-82CE-825CED22657A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1C6345-C1EC-4944-82CE-825CED22657A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1C6345-C1EC-4944-82CE-825CED22657A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1C6345-C1EC-4944-82CE-825CED22657A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2CA591B-42A0-4071-8FDC-B9F355F05B6B}
+	EndGlobalSection
+EndGlobal
